@@ -1,6 +1,7 @@
-# [huyduc học thuật toán] (/README.md)
+# **huyduc học thuật toán**
 
 > Tổng hợp những bài tập hay về **Thuật toán và lập trình thi đấu**
+>
 > Người tổng hợp: **[huyduc](https://www.facebook.com/huyduc137)**
 
 # Các bài tập liên quan đến thuật toán Tham Lam
@@ -21,3 +22,5 @@
 - [MAXDIFF](https://oj.vnoi.info/problem/fcb008_maxdiff)
 - [MINDIST](https://oj.vnoi.info/problem/fcb037_mindist)
 - [gom_dua](https://oj.vnoi.info/problem/vnoicup24_r1_a)
+...
+Đang cập nhật...
